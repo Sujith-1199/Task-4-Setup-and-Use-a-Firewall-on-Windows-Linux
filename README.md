@@ -8,7 +8,6 @@ Use Windows Defender Firewall to block and allow specific network traffic by por
 2. Viewed existing rules.
 3. Created a rule to **block port 23 (Telnet)**.
 4. Verified block using `telnet`.
-5. Deleted the test block rule to restore settings.
 
 ## Tools Used
 - Windows Defender Firewall
